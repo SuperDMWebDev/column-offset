@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+}
+
+.course-item {
+    background-color: pink;
+    height: 250px;
+}
+
+h1 {
+    color: #fff;
+    line-height: 250px;
+    font-size: 30px;
+}
