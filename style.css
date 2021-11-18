@@ -12,3 +12,16 @@ h1 {
     line-height: 250px;
     font-size: 30px;
 }
+
+.category {
+    background-color: green;
+    height: 260px;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+h1 {
+    margin-top: 0px;
+}
